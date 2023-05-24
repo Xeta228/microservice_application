@@ -1,0 +1,8 @@
+/home/vadim/IdeaProjects/microservices/order-service/src/main/java/com/baron/orderservice/entity/Order.java
+/home/vadim/IdeaProjects/microservices/order-service/src/main/java/com/baron/orderservice/dto/OrderLineItemDto.java
+/home/vadim/IdeaProjects/microservices/order-service/src/main/java/com/baron/orderservice/repository/OrderRepository.java
+/home/vadim/IdeaProjects/microservices/order-service/src/main/java/com/baron/orderservice/entity/OrderLineItem.java
+/home/vadim/IdeaProjects/microservices/order-service/src/main/java/com/baron/orderservice/OrderServiceApplication.java
+/home/vadim/IdeaProjects/microservices/order-service/src/main/java/com/baron/orderservice/controller/OrderController.java
+/home/vadim/IdeaProjects/microservices/order-service/src/main/java/com/baron/orderservice/service/OrderService.java
+/home/vadim/IdeaProjects/microservices/order-service/src/main/java/com/baron/orderservice/dto/OrderRequest.java

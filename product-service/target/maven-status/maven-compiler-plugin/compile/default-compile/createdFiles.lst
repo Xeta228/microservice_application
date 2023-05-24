@@ -1,0 +1,10 @@
+com/baron/productservice/dto/ProductRequest.class
+com/baron/productservice/repository/ProductRepository.class
+com/baron/productservice/controller/Controller.class
+com/baron/productservice/ProductServiceApplication.class
+com/baron/productservice/dto/ProductRequest$ProductRequestBuilder.class
+com/baron/productservice/dto/ProductResponse$ProductResponseBuilder.class
+com/baron/productservice/service/ProductService.class
+com/baron/productservice/entity/Product$ProductBuilder.class
+com/baron/productservice/dto/ProductResponse.class
+com/baron/productservice/entity/Product.class
