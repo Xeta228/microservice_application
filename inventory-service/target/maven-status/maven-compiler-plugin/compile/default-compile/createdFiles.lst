@@ -1,0 +1,5 @@
+com/baron/inventoryservice/controller/InventoryController.class
+com/baron/inventoryservice/service/InventoryService.class
+com/baron/inventoryservice/InventoryServiceApplication.class
+com/baron/inventoryservice/repository/InventoryRepository.class
+com/baron/inventoryservice/model/Inventory.class

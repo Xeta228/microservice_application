@@ -1,7 +1,7 @@
-/home/vadim/IdeaProjects/microservices/product-service/src/main/java/com/baron/productservice/entity/Product.java
-/home/vadim/IdeaProjects/microservices/product-service/src/main/java/com/baron/productservice/ProductServiceApplication.java
-/home/vadim/IdeaProjects/microservices/product-service/src/main/java/com/baron/productservice/dto/ProductResponse.java
-/home/vadim/IdeaProjects/microservices/product-service/src/main/java/com/baron/productservice/service/ProductService.java
-/home/vadim/IdeaProjects/microservices/product-service/src/main/java/com/baron/productservice/repository/ProductRepository.java
-/home/vadim/IdeaProjects/microservices/product-service/src/main/java/com/baron/productservice/dto/ProductRequest.java
-/home/vadim/IdeaProjects/microservices/product-service/src/main/java/com/baron/productservice/controller/Controller.java
+/home/vadim/IdeaProjects/microservice_application/product-service/src/main/java/com/baron/productservice/dto/ProductResponse.java
+/home/vadim/IdeaProjects/microservice_application/product-service/src/main/java/com/baron/productservice/repository/ProductRepository.java
+/home/vadim/IdeaProjects/microservice_application/product-service/src/main/java/com/baron/productservice/dto/ProductRequest.java
+/home/vadim/IdeaProjects/microservice_application/product-service/src/main/java/com/baron/productservice/controller/Controller.java
+/home/vadim/IdeaProjects/microservice_application/product-service/src/main/java/com/baron/productservice/service/ProductService.java
+/home/vadim/IdeaProjects/microservice_application/product-service/src/main/java/com/baron/productservice/entity/Product.java
+/home/vadim/IdeaProjects/microservice_application/product-service/src/main/java/com/baron/productservice/ProductServiceApplication.java

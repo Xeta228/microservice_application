@@ -1,0 +1,5 @@
+/home/vadim/IdeaProjects/microservice_application/inventory-service/src/main/java/com/baron/inventoryservice/InventoryServiceApplication.java
+/home/vadim/IdeaProjects/microservice_application/inventory-service/src/main/java/com/baron/inventoryservice/service/InventoryService.java
+/home/vadim/IdeaProjects/microservice_application/inventory-service/src/main/java/com/baron/inventoryservice/controller/InventoryController.java
+/home/vadim/IdeaProjects/microservice_application/inventory-service/src/main/java/com/baron/inventoryservice/repository/InventoryRepository.java
+/home/vadim/IdeaProjects/microservice_application/inventory-service/src/main/java/com/baron/inventoryservice/model/Inventory.java

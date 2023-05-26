@@ -37,6 +37,7 @@
             <artifactId>junit-jupiter</artifactId>
             <scope>test</scope>
         </dependency>
+
     </dependencies>
 
     <artifactId>product-service</artifactId>
